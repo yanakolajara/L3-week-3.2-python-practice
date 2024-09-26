@@ -23,3 +23,6 @@ Remember to choose `Install` when prompted to install the `ipykernel` package.
 Now you can choose each set of exercises from the sidebar based on the concepts you want to practice.
 
 Good luck!
+
+[Exercises](./exercises.ipynb)
+[Lesson](https://github.com/jdrichards-pursuit/week-3.2-python-theory/blob/main/lesson.ipynb)
