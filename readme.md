@@ -25,4 +25,5 @@ Now you can choose each set of exercises from the sidebar based on the concepts 
 Good luck!
 
 [Exercises](./exercises.ipynb)
+
 [Lesson](https://github.com/jdrichards-pursuit/week-3.2-python-theory/blob/main/lesson.ipynb)
