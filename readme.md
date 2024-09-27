@@ -24,6 +24,15 @@ Now you can choose each set of exercises from the sidebar based on the concepts 
 
 Good luck!
 
-[Exercises](./exercises.ipynb)
+## Links
 
-[Lesson](https://github.com/jdrichards-pursuit/week-3.2-python-theory/blob/main/lesson.ipynb)
+- [Exercises](./exercises.ipynb)
+
+- [Lesson](https://github.com/jdrichards-pursuit/week-3.2-python-theory/blob/main/lesson.ipynb)
+
+## Materials:
+
+- [Python Data Types - Official Documentation](https://docs.python.org/3/library/stdtypes.html)
+- [Python Strings - GeeksforGeeks](https://www.geeksforgeeks.org/python-strings/)
+- [Python String Methods - W3Schools](https://www.w3schools.com/python/python_strings_methods.asp)
+- [Python Operators - W3Schools](https://www.w3schools.com/python/python_operators.asp)
